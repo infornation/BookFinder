@@ -11,6 +11,11 @@
 		726110C529007019009A6701 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110C429007019009A6701 /* ContentView.swift */; };
 		726110C72900701A009A6701 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 726110C62900701A009A6701 /* Assets.xcassets */; };
 		726110CA2900701A009A6701 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 726110C92900701A009A6701 /* Preview Assets.xcassets */; };
+		726110D129007093009A6701 /* BookVolume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110D029007093009A6701 /* BookVolume.swift */; };
+		726110D3290075BC009A6701 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110D2290075BC009A6701 /* Color-Theme.swift */; };
+		726110D529007FD9009A6701 /* BookCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110D429007FD9009A6701 /* BookCollection.swift */; };
+		726110F129008E81009A6701 /* BookDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110F029008E81009A6701 /* BookDetailView.swift */; };
+		726110F52901C663009A6701 /* BookArrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726110F42901C663009A6701 /* BookArrayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,13 @@
 		726110C429007019009A6701 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		726110C62900701A009A6701 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		726110C92900701A009A6701 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		726110D029007093009A6701 /* BookVolume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookVolume.swift; sourceTree = "<group>"; };
+		726110D2290075BC009A6701 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
+		726110D429007FD9009A6701 /* BookCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookCollection.swift; sourceTree = "<group>"; };
+		726110F029008E81009A6701 /* BookDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailView.swift; sourceTree = "<group>"; };
+		726110F32900AAF8009A6701 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		726110F42901C663009A6701 /* BookArrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookArrayView.swift; sourceTree = "<group>"; };
+		726110F62901CE2F009A6701 /* TestView.json */ = {isa = PBXFileReference; explicitFileType = text.json; path = TestView.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +63,14 @@
 		726110C129007019009A6701 /* BooksApp */ = {
 			isa = PBXGroup;
 			children = (
+				726110F32900AAF8009A6701 /* Info.plist */,
 				726110C229007019009A6701 /* BooksAppApp.swift */,
 				726110C429007019009A6701 /* ContentView.swift */,
+				726110F42901C663009A6701 /* BookArrayView.swift */,
+				726110F029008E81009A6701 /* BookDetailView.swift */,
+				726110D029007093009A6701 /* BookVolume.swift */,
+				726110D429007FD9009A6701 /* BookCollection.swift */,
+				726110D2290075BC009A6701 /* Color-Theme.swift */,
 				726110C62900701A009A6701 /* Assets.xcassets */,
 				726110C82900701A009A6701 /* Preview Content */,
 			);
@@ -62,6 +80,7 @@
 		726110C82900701A009A6701 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				726110F62901CE2F009A6701 /* TestView.json */,
 				726110C92900701A009A6701 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -139,6 +158,11 @@
 			files = (
 				726110C529007019009A6701 /* ContentView.swift in Sources */,
 				726110C329007019009A6701 /* BooksAppApp.swift in Sources */,
+				726110F52901C663009A6701 /* BookArrayView.swift in Sources */,
+				726110D529007FD9009A6701 /* BookCollection.swift in Sources */,
+				726110D129007093009A6701 /* BookVolume.swift in Sources */,
+				726110F129008E81009A6701 /* BookDetailView.swift in Sources */,
+				726110D3290075BC009A6701 /* Color-Theme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +294,7 @@
 				DEVELOPMENT_TEAM = ZNV3K3467G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BooksApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +324,7 @@
 				DEVELOPMENT_TEAM = ZNV3K3467G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BooksApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

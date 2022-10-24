@@ -1,6 +1,760 @@
 {
-    "type": "MultiPolygon",
-    "coordinates": [
-        
-    ]
+  "kind": "books#volumes",
+  "totalItems": 63,
+  "items": [
+    {
+      "id": "FzQYG278V5sC",
+      "volumeInfo": {
+        "title": "Energy in Nature and Society",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2008",
+        "description": "Energy in Nature and Society is a systematic and comprehensive analysis of all the major energy sources, storages, flows, and conversions that have shaped the evolution of the biosphere and civilization. Vaclav Smil uses fundamental unifying metrics (most notably for power density and energy intensity) to provide an integrated framework for analyzing all segments of energetics (the study of energy flows and their transformations). The book explores not only planetary energetics (such as solar radiation and geomorphic processes) and bioenergetics (photosynthesis, for example) but also human energetics (such as metabolism and thermoregulation), tracing them from hunter-gatherer and agricultural societies through modern-day industrial civilization. Included are chapters on heterotrophic conversions, traditional agriculture, preindustrial complexification, fossil fuels, fossil-fueled civilization, the energetics of food, and the implications of energetics for the environment. The book concludes with an examination of general patterns, trends, and socioeconomic considerations of energy use today, looking at correlations between energy and value, energy and the economy, energy and quality of life, and energy futures. Throughout the book, Smil chooses to emphasize the complexities and peculiarities of the real world, and the counterintuitive outcomes of many of its processes, over abstract models. Energy in Nature and Societyis a broad and unique, single-volume analysis and reference source on all important energy matters, from natural to industrial energy flows, from fuels to food, from the Earth's formation to possible energy futures, and can serve as a text for courses in energy studies, global ecology, earth systems science, biology, and chemistry.",
+
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FzQYG278V5sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FzQYG278V5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+      },
+    },
+    {
+      "kind": "books#volume",
+      "id": "VLT4DwAAQBAJ",
+      "etag": "/jXn2rUn4CM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VLT4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Made in the USA",
+        "subtitle": "The Rise and Retreat of American Manufacturing",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2015-08-21",
+        "description": "An argument that America's economy needs a strong and innovative manufacturing sector and the jobs it creates. “There's no author whose books I look forward to more than Vaclav Smil.” —Bill Gates In Made in the USA, Vaclav Smil powerfully rebuts the notion that manufacturing is a relic of predigital history and that the loss of American manufacturing is a desirable evolutionary step toward a pure service economy. Smil argues that no advanced economy can prosper without a strong, innovative manufacturing sector and the jobs it creates. Smil explains how manufacturing became a fundamental force behind America's economic, strategic, and social dominance. He describes American manufacturing's rapid rise at the end of the nineteenth century, its consolidation and modernization between the two world wars, its role as an enabler of mass consumption after 1945, and its recent decline. Some economists argue that shipping low-value jobs overseas matters little because the high-value work remains in the United States. But, asks Smil, do we want a society that consists of a small population of workers doing high-value-added work and masses of unemployed? Smil assesses various suggestions for solving America's manufacturing crisis, including lowering corporate tax rates, promoting research and development, and improving public education. Will America act to preserve and reinvigorate its manufacturing? It is crucial to our social and economic well-being; but, Smil warns, the odds are no better than even.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262528351"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262528355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VLT4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VLT4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=VLT4DwAAQBAJ&pg=PA87&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=VLT4DwAAQBAJ&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Made_in_the_USA.html?hl=&id=VLT4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VLT4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The existence of the British Colossus , built in 1943 by Tommy \u003cb\u003eFlowers\u003c/b\u003e at the Post Office Research Laboratories in London , was kept secret until 1974. Ten machines eventually worked at the Bletchley Research Establishment , deployed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8ntHWPMUgpMC",
+      "etag": "akFqmPHYq+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8ntHWPMUgpMC",
+      "volumeInfo": {
+        "title": "The Earth's Biosphere",
+        "subtitle": "Evolution, Dynamics, and Change",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2003-08-11",
+        "description": "A comprehensive overview of Earth's biosphere, written with scientific rigor and essay-like flair. In his latest book, Vaclav Smil tells the story of the Earth's biosphere from its origins to its near and long-term future. He explains the workings of its parts and what is known about their interactions. With essay-like flair, he examines the biosphere's physics, chemistry, biology, geology, oceanography, energy, climatology, and ecology, as well as the changes caused by human activity. He provides both the basics of the story and surprising asides illustrating critical but often neglected aspects of biospheric complexity. Smil begins with a history of the modern idea of the biosphere, focusing on the development of the concept by Russian scientist Vladimir Vernadsky. He explores the probability of life elsewhere in the universe, life's evolution and metabolism, and the biosphere's extent, mass, productivity, and grand-scale organization. Smil offers fresh approaches to such well-known phenomena as solar radiation and plate tectonics and introduces lesser-known topics such as the quarter-power scaling of animal and plant metabolism across body sizes and metabolic pathways. He also examines two sets of fundamental relationships that have profoundly influenced the evolution of life and the persistence of the biosphere: symbiosis and the role of life's complexity as a determinant of biomass productivity and resilience. And he voices concern about the future course of human-caused global environmental change, which could compromise the biosphere's integrity and threaten the survival of modern civilization.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0262692988"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262692984"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8ntHWPMUgpMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8ntHWPMUgpMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=8ntHWPMUgpMC&pg=PA221&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=8ntHWPMUgpMC&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Earth_s_Biosphere.html?hl=&id=8ntHWPMUgpMC"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8ntHWPMUgpMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "tion mutualisms between insects , birds , and bats and flowering \u003cb\u003eplants\u003c/b\u003e may the best - known instances of ... Open \u003cb\u003eflowers\u003c/b\u003e are accessible to any pollinator , whereas those with concealed nectar require the ability to crawl inside or to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZANP8uYlu1cC",
+      "etag": "wWT6WdijxAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZANP8uYlu1cC",
+      "volumeInfo": {
+        "title": "Creating the Twentieth Century",
+        "subtitle": "Technical Innovations of 1867-1914 and Their Lasting Impact",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2005-08-25",
+        "description": "The period between 1867 and 1914 remains the greatest watershed in human history since the emergence of settled agricultural societies: the time when an expansive civilization based on synergy of fuels, science, and technical innovation was born. At its beginnings in the 1870s were dynamite, the telephone, photographic film, and the first light bulbs. Its peak decade - the astonishing 1880s - brought electricity - generating plants, electric motors, steam turbines, the gramophone, cars, aluminum production, air-filled rubber tires, and prestressed concrete. And its post-1900 period saw the first airplanes, tractors, radio signals and plastics, neon lights and assembly line production. This book is a systematic interdisciplinary account of the history of this outpouring of European and American intellect and of its truly epochal consequences. It takes a close look at four fundamental classes of these epoch-making innovations: formation, diffusion, and standardization of electric systems; invention and rapid adoption of internal combustion engines; the unprecedented pace of new chemical syntheses and material substitutions; and the birth of a new information age. These chapters are followed by an evaluation of the lasting impact these advances had on the 20th century, that is, the creation of high-energy societies engaged in mass production aimed at improving standards of living.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199883417"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199883416"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZANP8uYlu1cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZANP8uYlu1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=ZANP8uYlu1cC&pg=PT144&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZANP8uYlu1cC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZANP8uYlu1cC"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 959.25,
+          "currencyCode": "CZK"
+        },
+        "retailPrice": {
+          "amount": 767.4,
+          "currencyCode": "CZK"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZANP8uYlu1cC&rdid=book-ZANP8uYlu1cC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 959250000,
+              "currencyCode": "CZK"
+            },
+            "retailPrice": {
+              "amountInMicros": 767400000,
+              "currencyCode": "CZK"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Creating_the_Twentieth_Century-sample-epub.acsm?id=ZANP8uYlu1cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Creating_the_Twentieth_Century-sample-pdf.acsm?id=ZANP8uYlu1cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZANP8uYlu1cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... and the very next race in 1895 was ambitiously extended to a return trip between Paris and Bordeaux, a distance of nearly 1,200 km that the winning vehicle completed with average speed of 24 km/h (\u003cb\u003eFlower\u003c/b\u003e and Jones 1981)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XkhnDwAAQBAJ",
+      "etag": "uokxajC+ytU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XkhnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Bad Earth",
+        "subtitle": "Environmental Degradation in China",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2015-09-25",
+        "description": "As China strives to significantly increase its economic output, the nation faces an acute deterioration of the physical resources from which this prodigious growth springs. Major problems include water shortages, the pollution of water, high levels of carcinogens in the air, accelerating erosion, and industrial pollution. Originally published in 1984, Vaclav Smil documents and evaluates China’s environmental crisis. This title will be of particular interest for students of Environmental Studies and Development Studies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317295297"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317295293"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XkhnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XkhnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=XkhnDwAAQBAJ&pg=PT19&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XkhnDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XkhnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 895.6,
+          "currencyCode": "CZK"
+        },
+        "retailPrice": {
+          "amount": 716.48,
+          "currencyCode": "CZK"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XkhnDwAAQBAJ&rdid=book-XkhnDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 895600000,
+              "currencyCode": "CZK"
+            },
+            "retailPrice": {
+              "amountInMicros": 716480000,
+              "currencyCode": "CZK"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/The_Bad_Earth-sample-epub.acsm?id=XkhnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/The_Bad_Earth-sample-pdf.acsm?id=XkhnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XkhnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Old trees are prized for their antiquity and dignity: ancient pines, frost-defying plum \u003cb\u003eblossoms\u003c/b\u003e, elegant bamboo. \u003cb\u003eFlowers\u003c/b\u003e are loved and admired: magnolias, lotus, chrysanthemums, peonies. There are birds of exquisite plumage— mountain&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iBqtaead8rUC",
+      "etag": "HRb7OcGM2ho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iBqtaead8rUC",
+      "volumeInfo": {
+        "title": "China's Past, China's Future",
+        "authors": [
+          "Professor of Geography Vaclav Smil",
+          "Vaclav Smil"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2004-03-01",
+        "description": "China has a population of 1.3 billion people which puts strain on her natural resources. This volume, by one of the leading scholars on the earth's biosphere, is the result of a lifetime of study, and provides the fullest account yet of the environmental challenges that China faces. The author examines China's energy resources, their uses, impacts and prospects, from the 1970s oil crisis to the present day, before analysing the key question of how China can best produce enough food to feed its enormous population.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781134377695"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "113437769X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iBqtaead8rUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iBqtaead8rUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=iBqtaead8rUC&pg=PA143&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=iBqtaead8rUC&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/China_s_Past_China_s_Future.html?hl=&id=iBqtaead8rUC"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iBqtaead8rUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Old trees are prized for their antiquity and dignity: ancient pines, frost-defying plum \u003cb\u003eblossoms\u003c/b\u003e, elegant bamboo. \u003cb\u003eFlowers\u003c/b\u003e are loved and admired: magnolias, lotus, chrysanthemums, peonies. There are birds of exquisite plumage – mountain&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KJMMEAAAQBAJ",
+      "etag": "FNhiq5dOifs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KJMMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Growth",
+        "subtitle": "From Microorganisms to Megacities",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2020-12-08",
+        "description": "A systematic investigation of growth in nature and society, from tiny organisms to the trajectories of empires and civilizations. Growth has been both an unspoken and an explicit aim of our individual and collective striving. It governs the lives of microorganisms and galaxies; it shapes the capabilities of our extraordinarily large brains and the fortunes of our economies. Growth is manifested in annual increments of continental crust, a rising gross domestic product, a child's growth chart, the spread of cancerous cells. In this magisterial book, Vaclav Smil offers systematic investigation of growth in nature and society, from tiny organisms to the trajectories of empires and civilizations. Smil takes readers from bacterial invasions through animal metabolisms to megacities and the global economy. He begins with organisms whose mature sizes range from microscopic to enormous, looking at disease-causing microbes, the cultivation of staple crops, and human growth from infancy to adulthood. He examines the growth of energy conversions and man-made objects that enable economic activities—developments that have been essential to civilization. Finally, he looks at growth in complex systems, beginning with the growth of human populations and proceeding to the growth of cities. He considers the challenges of tracing the growth of empires and civilizations, explaining that we can chart the growth of organisms across individual and evolutionary time, but that the progress of societies and economies, not so linear, encompasses both decline and renewal. The trajectory of modern civilization, driven by competing imperatives of material growth and biospheric limits, Smil tells us, remains uncertain.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262539685"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262539683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 665,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KJMMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KJMMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=KJMMEAAAQBAJ&pg=PA112&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=KJMMEAAAQBAJ&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Growth.html?hl=&id=KJMMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Growth-sample-pdf.acsm?id=KJMMEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KJMMEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hundreds of \u003cb\u003eplants\u003c/b\u003e have been cultivated to supply food , feed , fuel , raw materials , medicines , and \u003cb\u003eflowers\u003c/b\u003e , with most species contributed by fruits and vegetables . Some of them include numerous cultivars , none more so than&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DFT5DwAAQBAJ",
+      "etag": "ukoPpPTQm0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DFT5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harvesting the Biosphere",
+        "subtitle": "What We Have Taken from Nature",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2015-08-21",
+        "description": "An interdisciplinary and quantitative account of human claims on the biosphere's stores of living matter, from prehistoric hunting to modern energy production. The biosphere—the Earth's thin layer of life—dates from nearly four billion years ago, when the first simple organisms appeared. Many species have exerted enormous influence on the biosphere's character and productivity, but none has transformed the Earth in so many ways and on such a scale as Homo sapiens. In Harvesting the Biosphere, Vaclav Smil offers an interdisciplinary and quantitative account of human claims on the biosphere's stores of living matter, from prehistory to the present day. Smil examines all harvests—from prehistoric man's hunting of megafauna to modern crop production—and all uses of harvested biomass, including energy, food, and raw materials. Without harvesting of the biomass, Smil points out, there would be no story of human evolution and advancing civilization; but at the same time, the increasing extent and intensity of present-day biomass harvests are changing the very foundations of civilization's well-being. In his detailed and comprehensive account, Smil presents the best possible quantifications of past and current global losses in order to assess the evolution and extent of biomass harvests. Drawing on the latest work in disciplines ranging from anthropology to environmental science, Smil offers a valuable long-term, planet-wide perspective on human-caused environmental change.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262528276"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262528274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DFT5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DFT5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=DFT5DwAAQBAJ&pg=PA91&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=DFT5DwAAQBAJ&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harvesting_the_Biosphere.html?hl=&id=DFT5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DFT5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( 2000 ) reported that in Yunnan province , more than 6,100 species of \u003cb\u003eplants\u003c/b\u003e and nearly 400 species of animals are used in traditional medicines . Species in high demand include not only the leaves , roots , and \u003cb\u003eflowers\u003c/b\u003e of \u003cb\u003eplants\u003c/b\u003e that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q5nhBwAAQBAJ",
+      "etag": "0WnAs8p/NiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q5nhBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Biomass Energies",
+        "subtitle": "Resources, Links, Constraints",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2013-03-09",
+        "description": "tions is not possible without first putting the problem into a wider con text. Consequently, before proceeding with detailed critical topical cov erage of individual biomass energy sources, uses, and effects, I will extend this preface with a few pages of rather personal reflections (I will use the same device in closing the book: after providing concise topical summaries in Chapter 8, I will conclude with some essayistic musings on renewable energetics, plants, people, and a scientist's responsibility). Interest in biomass energies is just a part of a broader global trend toward renewable energetics, a trend which has evolved speedily after the crude oil price escalation started in 1973. Yet one must be reminded that for the rich countries fossil fuels are, and for a long period shall remain, the foundation of an affluent civilization, while throughout the poor world the reliance of most people on biomass energies for everyday subsistence has brought many damaging environmental and social ef fects; that the reality of sharp price rises for crude oil (actually not so sharp once adjusted for inflation) should not be misconstrued as an \"energy crisis\"; that the rise of renew abies and the claims made on their behalf by countless enthusiasts look so much better on paper than in reality; and that the potential of biomass energies, an essential ingre dient of renewable scenarios, has been judged more with proselytizing zeal than with critical detachment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461336914"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1461336910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q5nhBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q5nhBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=Q5nhBwAAQBAJ&pg=PA321&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q5nhBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q5nhBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2963.64,
+          "currencyCode": "CZK"
+        },
+        "retailPrice": {
+          "amount": 2370.91,
+          "currencyCode": "CZK"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Q5nhBwAAQBAJ&rdid=book-Q5nhBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2963640000,
+              "currencyCode": "CZK"
+            },
+            "retailPrice": {
+              "amountInMicros": 2370910000,
+              "currencyCode": "CZK"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Biomass_Energies-sample-pdf.acsm?id=Q5nhBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q5nhBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Similar attitudes have been publicized by the managers of the Marine Biomass Program under the cosponsorship of the U.S. Department of Energy and the Gas Research Institute: A. B. \u003cb\u003eFlowers\u003c/b\u003e (1980) is unequivocal in his assurances that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RVcu0hlc1jgC",
+      "etag": "QV2iIT8WbdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RVcu0hlc1jgC",
+      "volumeInfo": {
+        "title": "Japan's Dietary Transition and Its Impacts",
+        "authors": [
+          "Vaclav Smil",
+          "Kazuhiko Kobayashi"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2012",
+        "description": "In a little more than a century, the Japanese diet has undergone a dramatic transformation. This book points out that the gains in the quality of Japans diet have exacted a price in terms of land use changes, water requirements, & marine resource depletion; & because Japan imports so much food, this price is paid globally as well as domestically.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262017824"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262017822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RVcu0hlc1jgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RVcu0hlc1jgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.cz/books?id=RVcu0hlc1jgC&pg=PA173&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=RVcu0hlc1jgC&dq=flowers+inauthor:%5C%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Japan_s_Dietary_Transition_and_Its_Impac.html?hl=&id=RVcu0hlc1jgC"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RVcu0hlc1jgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... fertilizers coated with low-permeability films (sulfur-coated urea) work fairly well but are too expensive and have found limited markets in growing garden and greenhouse vegetables, fruits, and \u003cb\u003eflowers\u003c/b\u003e (Wakimoto 2004; Minami 2005)."
+      }
+    }
+  ]
 }

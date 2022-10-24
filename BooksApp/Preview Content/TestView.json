@@ -1,6 +1,502 @@
 {
-    "type": "MultiPolygon",
-    "coordinates": [
-        
-    ]
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vyRGEAAAQBAJ",
+      "etag": "tPKs00xd5Ys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vyRGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Čísla nelžou",
+        "subtitle": "71 věcí, které byste měli vědět o světě",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Kniha Zlín",
+        "publishedDate": "2021-01-01",
+        "description": "Čísla nelžou. Ale jakou pravdu sdělují? Celosvětově uznávaný kanadský vědec českého původu nás ve své knize bere na faktografickou výpravu za poznáním. 71 tematických kapitol přináší kromě nových informací a fascinujících příkladů z energetiky, dopravy či ekologie také odpovědi na otázky typu: Proč elektrická auta zatím nejsou šetrná k životnímu prostředí? Proč je těžké předpovědět, jak zlá bude probíhající pandemie? A jak lidstvo a vynálezy moderního světa ovlivňují život na naší planetě?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788076622432"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8076622433"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.27.22.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vyRGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vyRGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=vyRGEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vyRGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vyRGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 279,
+          "currencyCode": "CZK"
+        },
+        "retailPrice": {
+          "amount": 237.15,
+          "currencyCode": "CZK"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vyRGEAAAQBAJ&rdid=book-vyRGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 279000000,
+              "currencyCode": "CZK"
+            },
+            "retailPrice": {
+              "amountInMicros": 237150000,
+              "currencyCode": "CZK"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/%C4%8C%C3%ADsla_nel%C5%BEou-sample-epub.acsm?id=vyRGEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/%C4%8C%C3%ADsla_nel%C5%BEou-sample-pdf.acsm?id=vyRGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vyRGEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Čísla nelžou."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "krCREAAAQBAJ",
+      "etag": "X8o/hH96duE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/krCREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Velké proměny",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Kniha Zlín",
+        "publishedDate": "2022-01-01",
+        "description": "Demografie, zemědělství, energie a hospodářství – to jsou čtyři „velké civilizační přechody“, jež zcela proměnily náš způsob života. Ačkoli jimi mnoho společností prošlo, na Zemi stále žijí stovky milionů lidí, kteří jsou tímto vývojem nedotčeni. Co to pro planetu znamená a kam tato nerovnováha lidstvo v blízké budoucnosti zavede? Mezinárodně uznávaný vědec Václav Smil představuje největší výzvy současnosti, které už nyní formují podobu našeho světa. Vaclav Smil tentokrát předkládá interdisciplinární zkoumání pěti fundamentálních přechodů, jejichž vzájemné působení vytvořilo moderní svět. Zaměřuje se na historii těchto přechodů v oblasti populace, zemědělství, energie, hospodářství a životního prostředí a zkoumá jejich původ, jakož i faktory, jež je umožnily a přispěly k jejich rozmachu. Zabývá se jejich pokrokem, postupy a rozptýlením a popisuji jejich trajektorie, interakce a důsledky. Zkoumá, jak jsme se dostali do tohoto bodu lidské evoluce a jak se z velkých přechodů zrodila dnešní každodenní realita. Realita, která se tak dalece vymyká tomu, co jsme si byli schopni včera představit, ale na jejíž výhody dosud nedosáhly miliardy lidí v méně rozvinutých společnostech, a to i přesto, že pokrok, k němuž jsme již dospěli, ohrožuje integritu biosféry.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788076624153"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8076624150"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=krCREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=krCREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=krCREAAAQBAJ&printsec=frontcover&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=krCREAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=krCREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 349,
+          "currencyCode": "CZK"
+        },
+        "retailPrice": {
+          "amount": 296.65,
+          "currencyCode": "CZK"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=krCREAAAQBAJ&rdid=book-krCREAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 349000000,
+              "currencyCode": "CZK"
+            },
+            "retailPrice": {
+              "amountInMicros": 296650000,
+              "currencyCode": "CZK"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Velk%C3%A9_prom%C4%9Bny-sample-epub.acsm?id=krCREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.cz/books/download/Velk%C3%A9_prom%C4%9Bny-sample-pdf.acsm?id=krCREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=krCREAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Vaclav Smil tentokrát předkládá interdisciplinární zkoumání pěti fundamentálních přechodů, jejichž vzájemné působení vytvořilo moderní svět."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HZluygEACAAJ",
+      "etag": "gd8mbnnz2t0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HZluygEACAAJ",
+      "volumeInfo": {
+        "title": "Ropa",
+        "subtitle": "průvodce pro začátečníky",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8074737039"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788074737039"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=HZluygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=HZluygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ropa.html?hl=&id=HZluygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HZluygEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gvV9ygEACAAJ",
+      "etag": "FXMtS675pVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gvV9ygEACAAJ",
+      "volumeInfo": {
+        "title": "Jak se vyrábí dnešní svět: materiály a dematerializace",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8026506731"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788026506737"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=gvV9ygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=gvV9ygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jak_se_vyr%C3%A1b%C3%AD_dne%C5%A1n%C3%AD_sv%C4%9Bt_materi%C3%A1l.html?hl=&id=gvV9ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gvV9ygEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eEVZygEACAAJ",
+      "etag": "dzDi6VIm8AI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eEVZygEACAAJ",
+      "volumeInfo": {
+        "title": "Energie",
+        "subtitle": "průvodce pro začátečníky",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8074736342"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788074736346"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=eEVZygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=eEVZygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Energie.html?hl=&id=eEVZygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eEVZygEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JnlxygEACAAJ",
+      "etag": "1ernLyPdd2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JnlxygEACAAJ",
+      "volumeInfo": {
+        "title": "Globální katastrofy a trendy",
+        "subtitle": "příštích padesát let",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8074735281"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788074735288"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=JnlxygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=JnlxygEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Glob%C3%A1ln%C3%AD_katastrofy_a_trendy.html?hl=&id=JnlxygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JnlxygEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RW5_oAEACAAJ",
+      "etag": "3ZWVJasnMU4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RW5_oAEACAAJ",
+      "volumeInfo": {
+        "title": "Fakta a mýty o energetice",
+        "subtitle": "jak vrátit debatu o energetice zpátky na zem",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8074643654"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788074643651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "cs",
+        "previewLink": "http://books.google.cz/books?id=RW5_oAEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.cz/books?id=RW5_oAEACAAJ&dq=inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fakta_a_m%C3%BDty_o_energetice.html?hl=&id=RW5_oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RW5_oAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
 }

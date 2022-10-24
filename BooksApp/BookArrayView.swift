@@ -8,47 +8,46 @@
 import SwiftUI
 
 struct BookArrayView: View {
-    
-    
+    @ObservedObject var bookCollection: BookCollection
+    @State var detailedBook = Book(id: "", volumeInfo: Book.VolumeInfo(title: "", description: "", publishedDate: "", authors: [""], imageLinks: nil, infoLink: ""))
     var body: some View {
+        
         List(bookCollection.fetchedBooks, id: \.id) { book in
-                NavigationLink {
-                    BookDetailView()
-                } label: {
-                    HStack{
-                        AsyncImage(url: URL(string: book.volumeInfo.imageLinks?.smallThumbnail ?? "")) { image in
-                            image
-                                .resizable()
-                                .scaledToFit()
-                                
-                            
-                        } placeholder: {
-                            Color.gray
-                        }.frame(width: 80, height: 130)
-
-                        VStack(alignment: .leading) {
-                            Text("\(book.volumeInfo.title)")
-                                .font(.title.bold())
+            NavigationLink {
+                BookDetailView(detailedBook: $detailedBook)
+                    .onAppear {
+                        detailedBook = book
+                    }
+                
+            } label: {
+                HStack{
+                    AsyncImage(url: URL(string: book.volumeInfo.imageLinks?.smallThumbnail ?? "DefaultBookCover")) { image in
+                        image
+                            .resizable()
+                            .scaledToFit()
+                    } placeholder: {
+                        Image("DefaultBookCover")
+                            .resizable()
+                            .scaledToFit()
+                    }.frame(width: 80, height: 130)
+                    
+                    VStack(alignment: .leading) {
+                        Text("\(book.volumeInfo.title)")
+                            .font(.title.bold())
+                            .foregroundColor(.darkColor)
+                        
+                        ForEach(book.volumeInfo.authors ?? ["Autor nebyl nalezen"], id: \.self) { author in
+                            Text(author)
+                                .font(.headline.bold())
                                 .foregroundColor(.darkColor)
-                            
-                            ForEach(book.volumeInfo.authors ?? ["Missing author"], id: \.self) { author in
-                                Text(author)
-                                    .font(.headline.bold())
-                                    .foregroundColor(.darkColor)
-                                    
-                            }
                         }
                     }
-                   
                 }
-                .listRowBackground(Color.backgroundColor)
+            }
+            .listRowBackground(Color.backgroundColor)
         }
+        .background(.backgroundColor)
         .listStyle(.plain)
     }
 }
 
-struct BookArrayView_Previews: PreviewProvider {
-    static var previews: some View {
-        BookArrayView()
-    }
-}
